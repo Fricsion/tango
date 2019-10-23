@@ -1,0 +1,10 @@
+// expected output from sample.csv
+
+{
+	"nap": {
+		"meanings":"うたた寝",
+		"class":"noun verb",
+		"systan_num":1401
+	}
+}
+
